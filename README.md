@@ -1,11 +1,8 @@
 # 👁️‍🗨️ NextPhisher - Termux Phishing Tool
 
-**NextPhisher** एक Powerful और Simple Phishing Tool है जो Termux पर चलता है। इसमें आपको 40+ वेबसाइट्स के फिशिंग पेज मिलते हैं जैसे Facebook, Instagram, Gmail, PUBG, Paytm, और बहुत कुछ।
+![NextPhisher Banner](https://i.ibb.co/ZYW3sNr/nextphisher-banner-dark.png)
 
-![NextPhisher Banner](https://raw.githubusercontent.com/htr-tech/zphisher/master/banner.png)
-
----
-
+NextPhisher एक Powerful और Simple Phishing Tool है जो...
 ## 🛠 Features:
 
 - [x] 40+ फिशिंग साइट्स
