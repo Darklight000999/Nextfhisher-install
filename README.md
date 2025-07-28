@@ -1,6 +1,6 @@
 # 👁️‍🗨️ NextPhisher - Termux Phishing Tool
 
-![NextPhisher Banner](https://i.ibb.co/ZYW3sNr/nextphisher-banner-dark.png)
+![NextPhisher Banner](https://github.com/Darklight000999/Darklight000999-/blob/main/nexphisher1.png)
 
 NextPhisher एक Powerful और Simple Phishing Tool है जो...
 ## 🛠 Features:
