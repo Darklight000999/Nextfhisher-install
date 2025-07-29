@@ -24,4 +24,4 @@ pkg install git -y
 pkg install bash -y
 https://github.com/htr-tech/nexphisher.git
 cd nextphisher
-bash nextphisher.sh
+bash nexphisher
