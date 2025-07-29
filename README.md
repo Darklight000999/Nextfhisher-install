@@ -12,7 +12,7 @@ NextPhisher एक Powerful और Simple Phishing Tool है जो...
 - [x] Easy Setup – बिना Root
       
 ![NextPhisher Banner](https://github.com/Darklight000999/Darklight000999-/blob/main/nexphisher1.png)
-![NextPhisher Banner](https://raw.githubusercontent.com/Darklight000999/Darklight000999/main/nexphisher2.png)
+![NextPhisher Banner](https://github.com/Darklight000999/Darklight000999-/blob/main/nexphisher2.png)
 
 ---
 
