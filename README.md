@@ -21,6 +21,6 @@ NextPhisher एक Powerful और Simple Phishing Tool है जो...
 pkg update && pkg upgrade
 pkg install git -y
 pkg install bash -y
-git clone https://github.com/htr-tech/nextphisher
+https://github.com/htr-tech/nexphisher.git
 cd nextphisher
 bash nextphisher.sh
