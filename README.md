@@ -16,7 +16,7 @@ NextPhisher एक Powerful और Simple Phishing Tool है जो...
 
 ---
 
-## 📱 Termux Installation:
+## 📱 Commands to install NextPhisher in tarmux:
 
 ```bash
 pkg update && pkg upgrade
